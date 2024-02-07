@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\FP-Growth-2\FP-Growth-2\bin\Debug\FP-Growth-2.exe.config
+C:\Users\Acer\source\repos\FP-Growth-2\FP-Growth-2\bin\Debug\FP-Growth-2.exe
+C:\Users\Acer\source\repos\FP-Growth-2\FP-Growth-2\bin\Debug\FP-Growth-2.pdb
+C:\Users\Acer\source\repos\FP-Growth-2\FP-Growth-2\obj\Debug\FP-Growth-2.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\FP-Growth-2\FP-Growth-2\obj\Debug\FP-Growth-2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FP-Growth-2\FP-Growth-2\obj\Debug\FP-Growth-2.exe
+C:\Users\Acer\source\repos\FP-Growth-2\FP-Growth-2\obj\Debug\FP-Growth-2.pdb
